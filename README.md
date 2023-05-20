@@ -11,13 +11,13 @@
 
 <h4 align="center"> I already know the basics of:</h4><br>
 <div align="center">
-  <a href=""> <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python"></a>
-  <a href=""> <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus"></a>
-  <a href=""> <img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-  <a href=""> <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5"></a>
-  <a href=""> <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql"></a>
-  <a href=""> <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows"></a>
-  <a href=""> <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux"></a>
+  <a href="https://github.com/TomasBruh"> <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python"></a>
+  <a href="https://github.com/TomasBruh"> <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus"></a>
+  <a href="https://github.com/TomasBruh"> <img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+  <a href="https://github.com/TomasBruh"> <img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5"></a>
+  <a href="https://github.com/TomasBruh"> <img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql"></a>
+  <a href="https://github.com/TomasBruh"> <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows"></a>
+  <a href="https://github.com/TomasBruh"> <img src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux"></a>
 </div>
 <br>
 <h2 align="center">Some stats of mine</h2>
